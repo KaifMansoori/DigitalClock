@@ -15,6 +15,6 @@ To use the Digital Clock Website, simply open the index.html file in your web br
 Contact: [KaifMansoori](https://github.com/KaifMansoori) 
 directly at mhkaif7411@gmail.com.
 
-![avatar](https://avatars2.githubusercontent.com/u/60906506?v=4)
+![avatar]([https://avatars2.githubusercontent.com/u/60906506?v=4](https://github.com/account))
         
     
